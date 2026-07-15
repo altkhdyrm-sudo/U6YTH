@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800;900&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", "Inter", sans-serif;
+  --font-serif: "Noto Naskh Arabic", serif;
+  
+  --color-primary-purple: #5B2596;
+  --color-dark-purple: #3E176D;
+  --color-accent-purple: #7641B4;
+  --color-soft-lavender: #E9E6FA;
+  --color-page-bg: #F5F3FF;
+  --color-main-text: #1D2433;
+  --color-muted-text: #687084;
+  --color-borders: #D9D3F0;
+}
+
+/* Custom visual adjustments */
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-page-bg);
+  color: var(--color-main-text);
+  direction: rtl;
+}
+
+.question-text {
+  font-family: var(--font-serif);
+}
+
+.model-answer-text {
+  font-family: var(--font-serif);
+}
+
+/* Hide scrollbars but keep functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.source-required-underline {
+  text-decoration: none;
+  display: inline;
+  border-bottom: 2px solid currentColor;
+  padding-bottom: 2px;
+  line-height: inherit;
+}

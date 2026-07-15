@@ -1,0 +1,8 @@
+{
+  "name": "أحياء الصف الثالث المتوسط - الفصل الثاني",
+  "description": "تطبيق تعليمي تفاعلي لمراجعة مادة الأحياء للصف الثالث المتوسط - الفصل الثاني: الجهاز الهيكلي (العظمي) وفقًا للكتاب المنهجي العراقي الأصلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

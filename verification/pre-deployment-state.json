@@ -1,0 +1,21 @@
+{
+  "file_list": [
+    "assets/css/style.css",
+    "assets/js/app.js",
+    "assets/js/questions.js",
+    "package.json",
+    "vite.config.ts"
+  ],
+  "hashes": {
+    "assets/js/questions.js": "7415a047dec9099dec2da5b5e57c340af506a6bb73fcee7ac9ee54e65a55c099",
+    "assets/js/app.js": "e21fe1fa9d9387588299f4fcef70c1112b33a127fddc3d78cc90fabfd4ea2209",
+    "assets/css/style.css": "8cb2972dc69b56dd1b3dff49ed1554e1240cde613ae25ac068ae8bfaa38e2cf4",
+    "package.json": "ba2507f9a52db3bb4148575aeb178257006f2869f96c18ba22b60ff785eb823e",
+    "vite.config.ts": "a0e73c1269984f1d711d95d9cedff8e6753f3d0634bfc3e70a89aa094b8b07a2"
+  },
+  "question_counts": {
+    "original": 121,
+    "enrichment": 50,
+    "total": 171
+  }
+}

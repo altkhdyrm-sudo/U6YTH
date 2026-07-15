@@ -1,0 +1,1060 @@
+{
+  "sourceFiles": {
+    "pdf": {
+      "path": "verification/sources/o.pdf",
+      "exists": true,
+      "hash": "a37082b5ea50455eb9564ed613992b74b1cd0984850acf1dace284ccf1209770",
+      "size": 6425087,
+      "mtime": "2026-07-14T23:54:25.978Z"
+    },
+    "txt": {
+      "path": "verification/sources/BIOLOGY_CH02_CONTENT_MASTER.txt",
+      "exists": true,
+      "hash": "9582c9b45e899421309f3fb4049718a2944412fdf2b18f55b4483b9a61641d86",
+      "size": 56086,
+      "mtime": "2026-07-14T23:54:25.981Z"
+    },
+    "js": {
+      "path": "assets/js/questions.js",
+      "exists": true,
+      "hash": "4313fcfe1415812faadf5b966c8dc41b337957d46fc2cbb095a43937f83bf066",
+      "size": 68738,
+      "mtime": "2026-07-15T00:35:51.339Z"
+    }
+  },
+  "originalQuestionsCount": 121,
+  "enrichmentQuestionsCount": 50,
+  "totalQuestionsCount": 171,
+  "originalDrawingQuestionEntries": 5,
+  "uniqueOriginalDrawingPrompts": 4,
+  "enrichmentDrawingQuestions": 0,
+  "firstEnrichmentId": "ENR-001",
+  "lastEnrichmentId": "ENR-050",
+  "missingEnrichmentIds": [],
+  "extraEnrichmentIds": [],
+  "duplicateEnrichmentIds": [],
+  "invalidEnrichmentIds": [],
+  "outOfOrderEnrichmentIds": [],
+  "originalSourceMismatches": [],
+  "enrichmentSourceMismatches": [],
+  "structuralMismatches": [],
+  "integrationErrors": [],
+  "runtimeErrors": [],
+  "networkUploadViolations": [],
+  "buildStatus": "PASS",
+  "lintStatus": "PASS",
+  "verifierExitCode": 0,
+  "finalStatus": "PASS — VERIFIED_AGAINST_AUTHENTIC_CANONICAL_SOURCE_FILES",
+  "sourceIdentityPassed": true,
+  "literalComparisonUsedForPass": true,
+  "lossyNormalizationUsedForPass": false,
+  "originalVerificationRecords": [
+    {
+      "id": "source-1",
+      "pdfPage": 2,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-2",
+      "pdfPage": 2,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-3",
+      "pdfPage": 2,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-4",
+      "pdfPage": 2,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-5",
+      "pdfPage": 2,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-6",
+      "pdfPage": 3,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-7",
+      "pdfPage": 3,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-8",
+      "pdfPage": 3,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-9",
+      "pdfPage": 3,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-10",
+      "pdfPage": 3,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-11",
+      "pdfPage": 4,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-12",
+      "pdfPage": 4,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-13",
+      "pdfPage": 4,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-14",
+      "pdfPage": 4,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-15",
+      "pdfPage": 5,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-16",
+      "pdfPage": 5,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-17",
+      "pdfPage": 5,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-18",
+      "pdfPage": 5,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-19",
+      "pdfPage": 5,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-20",
+      "pdfPage": 6,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-21",
+      "pdfPage": 6,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-22",
+      "pdfPage": 6,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-23",
+      "pdfPage": 6,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-24",
+      "pdfPage": 6,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-25",
+      "pdfPage": 7,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-26",
+      "pdfPage": 7,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-27",
+      "pdfPage": 7,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-28",
+      "pdfPage": 7,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-29",
+      "pdfPage": 8,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-30",
+      "pdfPage": 8,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-31",
+      "pdfPage": 8,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-32",
+      "pdfPage": 8,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-33",
+      "pdfPage": 8,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-34",
+      "pdfPage": 9,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-35",
+      "pdfPage": 9,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-36",
+      "pdfPage": 9,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-37",
+      "pdfPage": 9,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-38",
+      "pdfPage": 9,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-39",
+      "pdfPage": 10,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-40",
+      "pdfPage": 10,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-41",
+      "pdfPage": 10,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-42",
+      "pdfPage": 10,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-43",
+      "pdfPage": 11,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-44",
+      "pdfPage": 11,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-45",
+      "pdfPage": 11,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-46",
+      "pdfPage": 11,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-47",
+      "pdfPage": 11,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-48",
+      "pdfPage": 12,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-49",
+      "pdfPage": 12,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-50",
+      "pdfPage": 12,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-51",
+      "pdfPage": 12,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-52",
+      "pdfPage": 12,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-53",
+      "pdfPage": 13,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-54",
+      "pdfPage": 13,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-55",
+      "pdfPage": 13,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-56",
+      "pdfPage": 13,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-57",
+      "pdfPage": 14,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-58",
+      "pdfPage": 14,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-59",
+      "pdfPage": 14,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-60",
+      "pdfPage": 14,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-61",
+      "pdfPage": 14,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-62",
+      "pdfPage": 15,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-63",
+      "pdfPage": 15,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-64",
+      "pdfPage": 15,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-65",
+      "pdfPage": 15,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-66",
+      "pdfPage": 15,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-67",
+      "pdfPage": 16,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-68",
+      "pdfPage": 16,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-69",
+      "pdfPage": 16,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-70",
+      "pdfPage": 16,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-71",
+      "pdfPage": 17,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-72",
+      "pdfPage": 17,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-73",
+      "pdfPage": 17,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-74",
+      "pdfPage": 17,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-75",
+      "pdfPage": 17,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-76",
+      "pdfPage": 18,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-77",
+      "pdfPage": 18,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-78",
+      "pdfPage": 18,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-79",
+      "pdfPage": 18,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-80",
+      "pdfPage": 18,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-81",
+      "pdfPage": 19,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-82",
+      "pdfPage": 19,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-83",
+      "pdfPage": 19,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-84",
+      "pdfPage": 19,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-85",
+      "pdfPage": 20,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-86",
+      "pdfPage": 20,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-87",
+      "pdfPage": 20,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-88",
+      "pdfPage": 20,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-89",
+      "pdfPage": 20,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-90",
+      "pdfPage": 21,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-91",
+      "pdfPage": 21,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-92",
+      "pdfPage": 21,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-93",
+      "pdfPage": 21,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-94",
+      "pdfPage": 21,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-95",
+      "pdfPage": 22,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-96",
+      "pdfPage": 22,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-97",
+      "pdfPage": 22,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-98",
+      "pdfPage": 22,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-99",
+      "pdfPage": 23,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-100",
+      "pdfPage": 23,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-101",
+      "pdfPage": 23,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-102",
+      "pdfPage": 23,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-103",
+      "pdfPage": 23,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-104",
+      "pdfPage": 24,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-105",
+      "pdfPage": 24,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-106",
+      "pdfPage": 24,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-107",
+      "pdfPage": 24,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-108",
+      "pdfPage": 24,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-109",
+      "pdfPage": 25,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-110",
+      "pdfPage": 25,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-111",
+      "pdfPage": 25,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-112",
+      "pdfPage": 25,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-113",
+      "pdfPage": 26,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-114",
+      "pdfPage": 26,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-115",
+      "pdfPage": 26,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-116",
+      "pdfPage": 26,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-117",
+      "pdfPage": 26,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-118",
+      "pdfPage": 27,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-119",
+      "pdfPage": 27,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-120",
+      "pdfPage": 27,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    },
+    {
+      "id": "source-121",
+      "pdfPage": 27,
+      "questionLiteralMatch": true,
+      "answerLiteralMatch": true,
+      "structureMatch": true,
+      "branchesMatch": true
+    }
+  ],
+  "originalVerificationRecordsCount": 121,
+  "originalLiteralMismatches": [],
+  "enrichmentLiteralMismatches": [],
+  "sourceUnderlinedSegments": {
+    "ENR-007": [
+      "الكولاجين"
+    ],
+    "ENR-021": [
+      "الحبل الشوكي"
+    ],
+    "ENR-037": [
+      "الأربطة"
+    ]
+  },
+  "displayFixedSegments": {
+    "ENR-007": [
+      "توجد مادة الكولاجين"
+    ],
+    "ENR-021": [
+      "يمر الحبل الشوكي"
+    ],
+    "ENR-037": [
+      "تربط الأربطة"
+    ]
+  },
+  "studentDisplayAnswers": {
+    "ENR-007": "خطأ. التصحيح: توجد مادة الكولاجين ضمن المواد العضوية في تركيب العظم.",
+    "ENR-021": "خطأ. التصحيح: يمر الحبل الشوكي داخل القناة الشوكية.",
+    "ENR-037": "خطأ. التصحيح: تربط الأربطة العظام مع بعضها وتحمي المفاصل."
+  },
+  "missingFixedSegments": [],
+  "unexpectedUnderlines": [],
+  "underlineDomErrors": [],
+  "underlineVisualErrors": [],
+  "canonicalAnswerErrors": [],
+  "studentPresentationErrors": [],
+  "drawingPrivacyViolations": [],
+  "testStatus": "PASS",
+  "auditStatus": "PASS — STRICT_LITERAL_AUDIT_AND_STUDENT_UX_VERIFIED"
+}
